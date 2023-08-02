@@ -1,0 +1,61 @@
+html {background-color: #FEE9E1;}
+hr {color: #706993}
+h1 {color: #754845}
+h2 {color: #754845; text-align: center;}
+:any-link {color: #706993}
+p { margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 150px;}
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;}
+footer {
+    background-color:#706993; 
+    text-align:center; border: 8px solid #A0C1B9; 
+    border-radius: 20px}
+ #headshot { 
+        float: left; 
+        padding: 20px; 
+        border-radius: 200px; 
+    }
+#menu {
+    margin-top: 20px; 
+    margin-left: 20px;}
+#homefarmhomestead {
+    display: inline-block; 
+    border: 8px solid #A0C1B9;
+    border-radius: 20px; 
+    text-align: center; 
+    align-content: center}
+#appalachianfreepress {
+    display: inline-block ;
+    border: 8px solid #A0C1B9; 
+    border-radius: 20px; 
+    text-align: center }
+#hfhlogo {
+    float:left; 
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-bottom: 20px}
+#afplogo {float:left; 
+    padding-left: 20px; 
+    padding-right: 20px; 
+    padding-bottom: 20px}
+#text {
+    margin-top: 40px; 
+    border: 8px solid #706993; 
+    border-radius: 20px;}
+.container {
+    background-color: whitesmoke;
+    font: 15px;
+    font-weight: bold; 
+    border: solid 2px #706993 ;
+    border-radius: 10px; 
+    padding: 10px; 
+    display: flex;
+    gap: 10px;  
+    flex-wrap: wrap;
+    text-align: justify;
+    align-content: center;
+}
+
